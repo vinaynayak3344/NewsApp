@@ -1,0 +1,20 @@
+/* all section component  */
+.allsection{
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+    margin: 4px;
+}
+.footer{
+    background-color:black;
+    color: rgb(191, 195, 195);
+    text-align: center;
+    padding:2;
+    margin-top: 5px;
+}
+.background{
+    background-color: rgb(98, 0, 255);
+}
+.mybtn:hover{
+    background-color: rgb(250, 134, 67);
+}
